@@ -1,7 +1,5 @@
-# HTML-Resume
-You can visit the Resume site by clicking down below 
--
--
--
--
-https://hamidmuktaky.github.io/HTML-Resume/Resume.html
+HTML-CSS
+
+This is a list of all the projects and code sources I have written using HTML and CSS. 
+
+Check it out!
